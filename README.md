@@ -1,3 +1,3 @@
-# Biomedical-Device-Prototyping
-this is my first Git repository 
+Classification of traffic signals 
+ 
 Author- Jagruti Patil
